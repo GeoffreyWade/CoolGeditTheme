@@ -11,7 +11,7 @@
 # NOTE: If the $HOME/.local/share/gedit/styles directory already exists do not execute the following command!!
 # :~$ mv $HOME/Downloads/CoolGeditTheme-master/styles $HOME/.local/share/gedit/
 # NOTE: The previous command assumes that you downloaded the CoolGeditTheme-master.zip archive to you Downloads directory.
-# You may have to adjust the according to where the extracted CoolGeditTheme-master directory resides.
+# You may have to adjust the command according to where the extracted CoolGeditTheme-master directory resides.
 # LAST POSSIBLE SCENARIO: If the $HOME/.local/share/gedit/styles directory already exists, simply execute the following command:
 # :~$ mv $HOME/Downloads/CoolGeditTheme-master/styles/* $HOME/.local/share/gedit/styles/
 # Now you can select theme, as you normally would select a theme in you preferences! ;-)
