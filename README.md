@@ -2,10 +2,9 @@
 # To use this theme simply download/clone the repository, the name of the repo should be CoolGeditTheme-master.zip
 # Then unzip the zip archive with the following command:
 # :~$ unzip CoolGeditTheme-master.zip
-# Run the command below to see if any pre-existing theme selections have been chosen by running the following command via command-line:
+# Run the command below to see if any pre-existing theme selections have been chosen:
 # :~$ ls $HOME/.local/share/gedit
-# If the output of the ls command displays an error because the directory does not exist create directory with the following
-# command:
+# If the output of the ls command displays an error because the directory does not exist create directory with the following command:
 # NOTE: If the $HOME/.local/share/gedit directory already exists the following command is not necessary!!
 # :~$ mkdir -p -m0755 $HOME/.local/share/gedit
 # After doing so add the theme to your theme selection by moving the 'styles' directory located in freshly unzipped
