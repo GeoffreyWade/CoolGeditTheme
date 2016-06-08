@@ -1,0 +1,50 @@
+<style-scheme name="OblivionDark" id="oblivion-dark" version="1.0">
+  <author>Geo Wade</author>
+  <description>A darker, brighter oblivion using tango</description>
+
+  <style name="text"	foreground="#ffe200" background="#000000" />
+  <style name="selection"	foreground="#eeeeec" background="#888a85" />
+  <style name="cursor"	foreground="#d3d7cf" />
+  <style name="current-line"	background="#555753" />
+  <style name="line-numbers"	foreground="#1d2020" background="black" />
+  <style name="draw-spaces"	foreground="#888a85" />
+  <style name="bracket-match"	foreground="#c17d11" background="#000000" bold="true" />
+  <style name="bracket-mismatch"	foreground="#eeeeec" background="#cc0000" bold="true" />
+  <style name="right-margin"	foreground="#eeeeec" background="#babdb6" />
+  <style name="search-match"	foreground="#eeeeec" background="#4e9a06" />
+  <style name="def:comment"	foreground="#7eff00" />
+  <style name="def:shebang"	foreground="#ff1010" bold="true" />
+  <style name="def:doc-comment-element"	foreground="#95ff2d" italic="true" />
+  <style name="def:constant"	foreground="#ffe400" />
+  <style name="def:string"	foreground="#ff00d5" />
+  <style name="def:special-char"	foreground="#ce5c00" />
+  <style name="def:special-constant"	foreground="#ce5c00" />
+  <style name="def:floating-point"	foreground="#ff7100" />
+  <style name="def:identifier"	foreground="#729fcf" />
+  <style name="def:statement"	foreground="#398aff" bold="true" />
+  <style name="def:type"	foreground="#1fff00" bold="true" />
+  <style name="def:preprocessor"	foreground="#ff0000" />
+  <style name="def:error"	foreground="#eeeeec" background="#cc0000" bold="true" />
+  <style name="def:warning"	foreground="#eeeeec" background="#ad7fa8" />
+  <style name="def:note"	foreground="#888a85" background="#fce94f" bold="true" />
+  <style name="def:underlined"	foreground="#ad7fa8" italic="true" underline="true" />
+  <style name="diff:added-line"	foreground="#edd400" />
+  <style name="diff:removed-line"	foreground="#729fcf" />
+  <style name="diff:changed-line"	foreground="#ad7fa8" />
+  <style name="diff:diff-file"	foreground="#8ae234" bold="true" />
+  <style name="diff:location"	foreground="#8ae234" />
+  <style name="diff:special-case"	foreground="#ffffff" bold="true" />
+  <style name="latex:display-math"	foreground="#5c3566" />
+  <style name="latex:command"	foreground="#8ae234" bold="true" />
+  <style name="latex:include"	foreground="#ad7fa8" />
+  <style name="character"	foreground="#ff0000" />
+  <style name="keyword"	foreground="#ffc162" />
+  <style name="number"	foreground="#00ffe3" />
+  <style name="operator"	foreground="#0001ff" />
+  <style name="function"	foreground="#0001ff" />
+  <style name="base-n-integer"	foreground="#d0a2cb" />
+  <style name="boolean"	foreground="#ffd8b2" />
+  <style name="decimal"	foreground="#4395ff" />
+  <style name="reserved"	foreground="#398aff" />
+  <style name="builtin"	foreground="#0001ff" />
+</style-scheme>
